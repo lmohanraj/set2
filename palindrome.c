@@ -16,6 +16,6 @@ int main()
    if ( l==reverse )
       printf("yes\n");
    else
-      printf("no\);
+      printf("no");
    return 0;
 }
